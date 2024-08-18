@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MoCaSS
+{
+    internal class Structures
+    {
+        public struct Vect
+        {
+            public double x;
+
+            public double y;
+
+            public double z;
+        }
+    }
+}
